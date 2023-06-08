@@ -1,0 +1,20 @@
+{
+  "name": "datamanager",
+  "version": "1.0.0",
+  "description": "Data Manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ravindra Wagh",
+    "email": "ravindra.wagh@live.in",
+    "phone": "+91 9904377726"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.0",
+    "secretenvmgr": "^1.0.6"
+  }
+}
